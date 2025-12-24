@@ -16,12 +16,14 @@ This Jira project is designed to manage software development activities using Ag
 
 ### 📋 Boards Used
 #### 🔹 Kanban Board
+Used for continuous development and maintenance tasks.
 
-Used for continuous development and maintenance tasks.  
-Workflow Example:
 
+![Kanban](Jira/Kanban.png)
+
+
+**Workflow Example:**
 `Backlog → To Do → In Progress → Review → Done`
-
 
 **Use Cases:**  
 Bug fixes  
@@ -29,10 +31,11 @@ Support tasks
 Ongoing improvements  
 
 #### 🔹 Scrum Board
-
 Used for sprint-based development.  
-Sprint Workflow:  
 
+![Scrum](Jira/Scrum.png)
+
+**Sprint Workflow:**  
 `Backlog → To Do → In Progress → Testing → Done`
 
 
